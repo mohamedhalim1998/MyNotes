@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="note_details">Note Details</string>
+    <string name="note_edit_mode">Edit Note</string>
+    <string name="note_add_mode">Add Note</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="done">Done</string>
+    <string name="delete">delete</string>
+    <string name="delete_confirmation_message">Are you sure to delete this note ?</string>
+    <string name="delete_confirmation_yes">Delete</string>
+    <string name="delete_confirmation_no">Cancel</string>
+    <string name="discard_confirmation_message">Are you sure to discard the changes ?</string>
+    <string name="discard_confirmation_yes">Discard</string>
+    <string name="discard_confirmation_no">Cancel</string>
+
+</resources>
